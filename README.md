@@ -1,4 +1,4 @@
-# InsurAI – Next-Gen InsurTech Platform
+<img width="1851" height="1012" alt="image" src="https://github.com/user-attachments/assets/16279388-9955-4163-b76c-dc1a7ef315a3" /># InsurAI – Next-Gen InsurTech Platform
 
 🚀 Next-gen InsurTech platform leveraging AI to automate claims and optimize risk assessment.
 
@@ -100,8 +100,12 @@ python model.py
 ---
 
 ## 📸 Screenshots
+<img width="1851" height="1012" alt="image" src="https://github.com/user-attachments/assets/e53901d4-d95f-4366-af86-ce651f7b844e" />
+<img width="1858" height="1017" alt="image" src="https://github.com/user-attachments/assets/76077d27-b797-40bb-890b-0b5e83379f6e" />
+<img width="1848" height="1016" alt="image" src="https://github.com/user-attachments/assets/997fc58f-be2c-49b1-98db-f38476d6792d" />
+<img width="1854" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca5bfcd7-4305-437b-b438-78a23ffa1760" />
 
-(Add screenshots in `/docs/images` and link here)
+
 
 ---
 
