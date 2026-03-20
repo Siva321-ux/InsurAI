@@ -61,7 +61,7 @@ The system follows a modular architecture:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/insurai-risk-platform
+git clone  https://github.com/Siva321-ux/InsurAI
 
 ---
 
